@@ -1,5 +1,8 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="" tvg-name="XXX Hustle FHD" tvg-logo="https://cdn-icons-png.flaticon.com/512/83/83580.png" group-title="Canais | Adulto",XXX Hustle FHD
+http://s.pdsrv.io:80/ig3s1cm0/39pt7rcv/79010
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO",telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 #EXTINF:-1 tvg-id="SEXY HOT" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
 http://s3.meusrv.gq:8081/live/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
